@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\AppWebMVC-Sparkly.props" />
+</Project>
